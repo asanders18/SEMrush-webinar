@@ -3,7 +3,8 @@
 Hello, Internet traveller. 
 
 Here you will find resources related to the SEMrush webinar (3/5/20):
-Scaling Ranking Data Analysis: organizing, visualizing, and having some fun with SEMrush data
+**Scaling Ranking Data Analysis: organizing, visualizing, and having some fun with SEMrush data** part of the
+<a href="https://www.semrush.com/webinars/5-hours-of-seo-or-7-sessions-back-to-back/">5 hours of SEO</a> webinar series.
 
 ## Session Summary
 We don’t always have access to first-party data (😔), buuuut luckily, we can use third-party data to develop our understanding and help derive directional business intelligence and insights (😊).
