@@ -1,6 +1,6 @@
 # SEMrush Webinar
 
-Hello, Internet traveller. 
+Hello Internet traveller,
 
 Here you will find resources related to the SEMrush webinar (3/5/20):
 **Scaling Ranking Data Analysis: organizing, visualizing, and having some fun with SEMrush data** part of the
@@ -18,14 +18,14 @@ If you love content, ranking analyses, or are passionate about efficiencies in r
 
 *Note: regardless of your toolset (for ranking and BI visualization), this methodology can help you identify insights.
 
-This thirty-minute session is hosted by Nik Ranger.
+This thirty-minute session was hosted by Nik Ranger.
 
 # Reach out
 If you have any thoughts, questions, memes, etc:
 * Reach out on Twitter: <a href="https://twitter.com/alexisksanders">@alexisksanders</a>
 * Submit issues 
 
-See the full deck on slideshare, <a href="https://www.slideshare.net/sandersal1">here</a>
+See the full deck on slideshare, <a href="https://www.slideshare.net/sandersal1/semrush-5-hours-of-seo-scaling-ranking-data-analysis1">here</a>. The font is an Adobe one... so everything is a bit off, but the GIFs remain intact! 
 
 Thank you,
 
